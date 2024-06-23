@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "5056533964",
+    "firebase_url": "https://skating-game-default-rtdb.firebaseio.com",
+    "project_id": "skating-game",
+    "storage_bucket": "skating-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5056533964:ios:9917fe04b20af13f473969",
+        "android_client_info": {
+          "package_name": "com.chloexiao.skatinggame"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIveSN09PHwLo38d_kAS2iHl0PFv49O88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
